@@ -13,7 +13,7 @@ that departure–arrival pair.
 
 ## Live Demo
 
-Deployed on Render: **https://your-app-name.onrender.com](https://orbital-transfers.up.railway.app**
+Deployed on Render: **https://orbital-transfers.up.railway.app**
 
 > The free tier sleeps after 15 minutes of inactivity. The first request after
 > a sleep takes ~30 seconds to wake up.
